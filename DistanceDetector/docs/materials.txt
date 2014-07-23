@@ -1,0 +1,9 @@
+(1) Arduino Uno
+(1) Breadboard
+(1) HC-SRO4 Ultrasonic Sensor
+(1) Buzzer
+(2) Green LEDs
+(2) Blue LEDs
+(2) Red LEDs
+(7) 330 ohm Resistors
+A lot of jumper wires
