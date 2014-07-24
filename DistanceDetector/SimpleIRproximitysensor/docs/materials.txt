@@ -1,0 +1,7 @@
+- 1 IR LED receiver (photodiode with 2 pins, not the phototransistor with 3 pins)
+- IR LED emitters (as much as you can get, but at least 2)
+- 100K resistor (brown black yellow)
+- Jumper wires
+- Breadboard
+- Electrical tape
+- Buzzer(optional)
