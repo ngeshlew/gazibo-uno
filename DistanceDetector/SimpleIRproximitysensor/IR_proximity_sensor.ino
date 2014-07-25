@@ -1,9 +1,6 @@
 // Simple Proximity Sensor using Infrared
 // Description: Measure the distance to an obstacle using infrared light emitted by IR LED and
-//   read the value with a IR photodiode. The accuracy is not perfect, but works great
-//   with minor projects.
-// Author: Ricardo Ouvina
-// Date: 01/10/2012
+//   read the value with a IR photodiode. 
 // Version: 1.0
 
 int IRpin = A0;               // IR photodiode on analog pin A0
